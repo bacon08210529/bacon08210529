@@ -1,7 +1,7 @@
 ## MY NAME IS BACON 👋
-# |akashi is in the Tohoku Univercity||
----|---
-|||
+|akashi is in the Tohoku Univercity|
+----|----
+|20250516|
 
 <!--
 **bacon08210529/bacon08210529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
